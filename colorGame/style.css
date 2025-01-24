@@ -1,0 +1,12 @@
+body{
+    background-color: #232323;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-weight: 300;
+    text-transform: uppercase;
+}
