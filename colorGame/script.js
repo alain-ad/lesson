@@ -21,6 +21,8 @@ function changeColor() {
   texte.style.color = colors[random];
   // afficher la couleur à deviner
   texte.textContent = colors[random];
+  // mettre à jour la couleur actuelle
+  currentColor = colors[random];
 }
 // gérer les événements
 // Ajouter une fonctionnalité qui se déclenche lorsqu'un utilisateur clique sur le bouton.
